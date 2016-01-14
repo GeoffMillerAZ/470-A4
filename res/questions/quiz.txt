@@ -1,0 +1,16 @@
+1 + 1 =
+2
+res/images/questions/AdaQuestion.jpg
+ada
+res/images/questions/buildingquestion.jpg
+dunno
+Who said "Fear is the passion of slaves"?
+patrick henry
+Which US war saw the White House burned?
+war of 1812
+res/images/questions/doughnut.jpg
+doughnut
+res/images/questions/infinity.jpg
+infinity
+res/images/questions/Starcraft-2-Protoss1.jpg
+starcraft
